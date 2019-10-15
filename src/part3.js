@@ -22,8 +22,8 @@ function draw() {
 
 function keyPressed() {
   if (key == "c" || key == "C") {
+    clear();
     background(255);
-    clearInterval();
   } else if (keyCode == 32) {
     print(colorSelect);
     // Space keycode
