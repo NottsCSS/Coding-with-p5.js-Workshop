@@ -2,7 +2,7 @@
 
 ## Acknowledgement
 
-This is a workshop done by the Computer Science Society(CSS) 19/20. Thank you to all the committee that contributed to this workshop in various ways.
+This is a workshop done by the Computer Science Society(CSS) 19/20. My sincere thanks to all the committee that had contributed to this workshop in various ways.
 
 ## Introduction to the Web
 
