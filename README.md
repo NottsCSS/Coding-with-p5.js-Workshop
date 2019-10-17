@@ -1,5 +1,9 @@
 # Coding with p5.js
 
+## Acknowledgement
+
+This is a workshop done by the Computer Science Society(CSS) 19/20. Thank you to all the committee that contributed to this workshop in various ways.
+
 ## Introduction to the Web
 
 The world wide web that we know consists of many web pages, which is built from 3 main technologies, which is HTML, CSS and Javascript respectively.
@@ -268,7 +272,7 @@ Result:
 
 **Tada !**
 
-Now, you might be thinking that drawing with code is good and all, but is it all it can do? This is where *Events*.comes in.
+Now, you might be thinking that drawing with code is good and all, but is it all it can do? This is where *Events* comes in.
 
 ## Events in p5.js
 
@@ -611,7 +615,7 @@ function keyPressed() {
 
 Here, we set the colourSelect to another number when the 's' key is pressed. This sequence of conditionals allow us to roll through different colour range selection via the 's' key.
 
-Next, let's add in the functionality for actually changing the colour range. To do that, we just have to do what we had been doing: Swapping arguments for function, programmatically.
+Next, let's add in the functionality for actually changing the colour range. To do that, we just have to do what we had been doing: Swapping arguments for the fill function, programmatically.
 
 ```js
 let colorSelect = 1;
@@ -651,7 +655,7 @@ function keyPressed() {
 }
 ```
 
-As you can see, we switched between the parameters using the conditional statement (`if elseif else`).
+As you can see, we switched between the parameters using the conditional statement (`if elseif else`), essentially allowing us to switch colours!
 
 Now, try and see if it works! Feel free to experiment more as well!
 
