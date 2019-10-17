@@ -19,7 +19,7 @@ function draw() {
   rect(300, 250, 60, 60);
   rect(400, 250, 60, 80);
 
-  // Event based drawing
+  // Event based drawing (Extra things that would be shown but not learnt.)
   ellipse(x, y, 60, 60);
   if (mouseIsPressed) {
     print(mouseX);
